@@ -1,9 +1,5 @@
 # 2-B-R-0-2-B
 
-
-
-
-
 <html lang="en">
   <head>
     <meta charset="UTF-8">
